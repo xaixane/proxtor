@@ -1,4 +1,4 @@
-PROXy-TOR:
+PROXY-TOR:
     
     [*]  This is a shared library which hijacks your normal connect system call and acts as a proxy client which enables you to communicate through another end point using the TOR network. 
     [*] This project can be used in conjunction with other system binaries like curl, ssh, wget etc.
